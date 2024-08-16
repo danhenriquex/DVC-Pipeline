@@ -1,5 +1,5 @@
 /README.md
-dvc.lock
+/dvc.lock
 dvc.lock.dvc
 README.md.DVC
-./archive/IMDB_Dataset.csv
+archive/IMDB_Dataset.csv
