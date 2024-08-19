@@ -20,8 +20,6 @@
 
 ### Overview
 
-Figma: https://www.figma.com/file/e8Kkb8QImQV0Z0F8WXkgju/RentX-Ignite---Offline-First?node-id=0%3A1
-
 <div style='margin: 20px' id="overview">
  This project aims to showcase the use of DVC and Hydra in managing a machine learning pipeline. The project is organized into modular Python scripts, each responsible for a specific part of the pipeline. The main goal is to create a reproducible and scalable workflow for machine learning experiments.
 </div>
