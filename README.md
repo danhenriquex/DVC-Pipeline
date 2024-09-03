@@ -1,7 +1,7 @@
 <h1 align="center">🚗 AI Project Managment</h1>
-<p align="center" id="objetivo">Learning Hydra and DVC integration for Machine Learning projects.</p>
+<p align="center" id="objetivo">Learning DVC integration for Machine Learning projects.</p>
 
-<p align="center">🚀 This project demonstrates a full machine learning pipeline using DVC (Data Version Control), Hydra, and Python. The pipeline includes data preparation, feature engineering, model training, and evaluation.
+<p align="center">🚀 This project demonstrates a full machine learning pipeline using DVC (Data Version Control) and Python. The pipeline includes data preparation, feature engineering, model training, and evaluation.
 
 </p>
 
@@ -21,7 +21,7 @@
 ### Overview
 
 <div style='margin: 20px' id="overview">
- This project aims to showcase the use of DVC and Hydra in managing a machine learning pipeline. The project is organized into modular Python scripts, each responsible for a specific part of the pipeline. The main goal is to create a reproducible and scalable workflow for machine learning experiments.
+ This project aims to showcase the use of DVC in managing a machine learning pipeline. The project is organized into modular Python scripts, each responsible for a specific part of the pipeline. The main goal is to create a reproducible and scalable workflow for machine learning experiments.
 </div>
 
 ### Features
@@ -30,7 +30,6 @@
 
 - Python: The programming language used for the entire pipeline.
 - DVC (Data Version Control): Used for tracking data, models, and experiments.
-- Hydra: A configuration management framework that simplifies the handling of multiple configuration files and command-line arguments.
 - PyTorch: Used for building and training the machine learning model (if applicable).
 - Scikit-learn: Used for data preparation and feature engineering (if applicable).
 - Pandas: For data manipulation and analysis.
@@ -75,7 +74,6 @@
 
 	
 - DVC: How to use DVC to version control data, track experiments, and manage model files.
-- Hydra: How to use Hydra to manage configuration files and command-line arguments, making the project more flexible and easier to scale.
 - Pipeline Structuring: The importance of organizing a machine learning project into modular scripts to create a clear and maintainable workflow.
 - Reproducibility: Ensuring that experiments are reproducible by tracking data, code, and configurations.
 
