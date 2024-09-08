@@ -43,24 +43,18 @@
 
 ### Project Structure
 
-.
+```bash
+
 ├── prepare_data.py          # Script to prepare and clean the data
-
 ├── train.py                 # Script to train the machine learning model
-
 ├── make_features.py         # Script to create features from the raw data
-
 ├── evaluate.py              # Script to evaluate the trained model
-
 ├── dvc.yaml                 # DVC pipeline configuration
-
 ├── .dvc/                    # DVC metadata directory
-
 ├── .gitignore               # Git ignore file
-
 ├── README.md                # Project documentation (this file)
-
 └── data/                    # Directory containing the data (managed by DVC)
+```
 
 
 ### Scripts Overview
